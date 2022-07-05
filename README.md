@@ -1,12 +1,4 @@
 # odin-recipes
-
-I'm excited to make my HTML website showcasing a few recipes.
-
-I am going to demonstrate skills in HTML:
-	Elements
-	Tags
-	Lists - unordered and ordered
-	Links - absolute and relative
-	Pushing git commits
-	Making good commit messages
-
+# About
+A simple webpage made using only HTML for the Foundations portion of The Odin Project.
+Clicking on a recipe link will show you the ingredients and method to make the delicious dish picture. 
