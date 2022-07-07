@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+p,
+h1,
+h2,
+h3,
+li {
+    color: whitesmoke;
+}
+
+.homelink {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}

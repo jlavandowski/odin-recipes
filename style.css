@@ -1,0 +1,20 @@
+img {
+    height: 250px;
+    width: auto;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+li {
+    color:whitesmoke;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: black;;
+}
